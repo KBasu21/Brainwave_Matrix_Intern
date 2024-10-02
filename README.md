@@ -7,4 +7,5 @@ Deposit: Allows the user to deposit money and update the balance.
 Withdrawal: Enables the user to withdraw money, with the balance updating accordingly.
 Balance Check: Displays the current account balance.
 Exit: Closes the interface.
+
 The ATM system ensures real-time balance updates for both deposits and withdrawals, providing a user-friendly experience.
